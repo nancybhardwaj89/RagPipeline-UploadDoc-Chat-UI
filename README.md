@@ -2,7 +2,7 @@
 
 A retrieval-augmented generation (RAG) chat application that lets users upload documents, then ask natural-language questions answered strictly from those documents — with source citations. Built with **n8n** for the AI/orchestration backend and **React (Vite)** for the frontend, deployed on **Vercel**.
 
-**Live demo:** https://rag-pipeline-upload-doc-chat-ui.vercel.app/
+
 **Author:** Nancy Bhardwaj — [LinkedIn](https://linkedin.com/in/nancy-bhardwaj) · [GitHub](https://github.com/nancybhardwaj89)
 
 ---
