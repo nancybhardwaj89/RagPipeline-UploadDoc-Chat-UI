@@ -95,8 +95,8 @@ rag-chat-ui/
 **Prerequisites:** Node.js 18+, an active n8n workflow with a Form Trigger and Chat Trigger node.
 
 ```bash
-git clone https://github.com/nancybhardwaj89/rag-chat-ui.git
-cd rag-chat-ui
+git clone https://github.com/nancybhardwaj89/RagPipeline-UploadDoc-Chat-UI.git
+cd RagPipeline-UploadDoc-Chat-UI
 npm install
 cp .env.example .env
 ```
