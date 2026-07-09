@@ -70,6 +70,16 @@ _Step 2 — users ask questions answered from the uploaded documents._
 <img width="1035" height="795" alt="image" src="https://github.com/user-attachments/assets/59ca1aea-2cdb-4b8b-a999-0fd5183b1372" />
 
 ---
+## QA Use Cases
+
+This architecture can be extended for:
+
+- Requirements Q&A from BRD/FRD/AC documents
+- AI test case generation grounded in user stories
+- Requirements gap analysis
+- Defect knowledge-base assistant
+- Release note impact analysis
+- Flaky test triage using logs and historical failures
 
 ## Project Structure
 
